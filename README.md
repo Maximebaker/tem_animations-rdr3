@@ -19,3 +19,7 @@ Système d'animations par commandes dans le chat.
 # Changelogs
 ## 0.9.0
 - Version initiale.
+
+## 0.9.1
+### Corrections
+- Correction de la distance d'activation des emotes partagées.

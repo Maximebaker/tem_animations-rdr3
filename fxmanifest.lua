@@ -5,5 +5,5 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 client_script {"client/*.lua"}
 server_script {"server/*.lua"}
 
-version "0.9.0"
+version "0.9.1"
 author "Emace Airoh"
