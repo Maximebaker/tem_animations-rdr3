@@ -6,4 +6,4 @@ client_script {"client/*.lua"}
 server_script {"server/*.lua"}
 
 version "0.9.1"
-author "Emace Airoh"
+author "Maxime Baker"
